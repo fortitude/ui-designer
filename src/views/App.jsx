@@ -8,7 +8,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        hello world
+        <span>hello world</span>
         <Table />
         <Card>
           this thing is a card.
